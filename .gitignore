@@ -1,0 +1,6 @@
+/.idea/
+/dependency-reduced-pom.xml
+/target/
+/terraform/.terraform/
+/terraform/.terraform.lock.hcl
+/terraform/terraform.tfstate*
